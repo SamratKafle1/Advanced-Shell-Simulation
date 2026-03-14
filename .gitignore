@@ -6,6 +6,7 @@ shell
 users.db
 artifacts/
 script.log
+demo_output.txt
 
 # OS/editor noise
 .DS_Store

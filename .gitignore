@@ -1,0 +1,14 @@
+# Build artifacts
+shell
+*.o
+
+# Runtime/generated data
+users.db
+artifacts/
+script.log
+demo_output.txt
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
